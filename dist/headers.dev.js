@@ -1,0 +1,6 @@
+"use strict";
+
+module.exports = {
+  SEARCH_COOKIE: 'correlationId=9f75d9ce-f7e8-4d3a-8b53-35bb4835e8f8; amp_logged_in_status=N; amp_correlationID=9f75d9ce-f7e8-4d3a-8b53-35bb4835e8f8; amp_storefront=US; _ga=GA1.2.1044527827.1609599148; _br_uid_2=uid%3D7025776811381%3Av%3D12.0%3Ats%3D1609599151324%3Ahc%3D184; amplitude_id_97bb138e694b7678e06c5f202aff385apokemoncenter.com=eyJkZXZpY2VJZCI6IjQwZDYzZDdmLTAzMmYtNGMxNi1iOGI1LTlhZWE0MGIzYzU4ZFIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwOTk0NTIzMjYwNCwibGFzdEV2ZW50VGltZSI6MTYwOTk0NTIzNDg5NCwiZXZlbnRJZCI6MTk3LCJpZGVudGlmeUlkIjo4LCJzZXF1ZW5jZU51bWJlciI6MjA1fQ==; _sp_id.02f2=debdc5802ec1e6d2.1609599148.11.1609945238.1609932548; __zlcmid=125jj1FysAdGe6W; complianceCookie=true; datadome=OX-SV4AL1BUu1iAA.TKXyqx58ezij~G.3WAPMPFM27DswtnT~3CVm7uBrn.icVKB3SZX6fcWNfWE8xylTW7c~ZNs6nHyOFbCGEWL-tnnj4; auth={"access_token":"34e31a3c-72fe-466f-b822-14ff08bf6800","token_type":"bearer","expires_in":604797,"scope":"pokemon","role":"PUBLIC","roles":["PUBLIC"]}; SERVERID=1b8a5c54e3b36703427598e807602de7',
+  USER_AGENT: "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+};
